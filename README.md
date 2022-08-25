@@ -1,5 +1,5 @@
 Meu primeiro sistema no Git
 
-Aleterei
+Alterei
 
 alteração feita no master
